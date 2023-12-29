@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_perfil"
+        android:enabled="true"
+        android:icon="@drawable/img_perfil"
+        android:title="@string/menu_perfil"/>
+    <item
+        android:id="@+id/page_actividades"
+        android:enabled="true"
+        android:visible="true"
+        android:icon="@drawable/img_actividades"
+        android:title="@string/menu_actividades"/>
+    <item
+        android:id="@+id/page_calendario"
+        android:enabled="true"
+        android:icon="@drawable/img_calendario"
+        android:title="@string/menu_calendario"/>
+    <item
+        android:id="@+id/page_mapas"
+        android:enabled="true"
+        android:icon="@drawable/img_map"
+        android:title="MAPAS"/>
+</menu>

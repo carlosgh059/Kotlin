@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Iconos"
+        android:icon="@drawable/img_perfil"
+        android:title="Cerrar sesion"
+        android:contentDescription="esto es una descricpion2"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/mapaNuevo"
+        android:icon="@drawable/img_perfil"
+        android:title="Mapa"
+        android:contentDescription="esto es una descricpion3"
+        app:showAsAction="never"/>
+
+
+</menu>
